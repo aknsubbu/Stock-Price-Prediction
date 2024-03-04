@@ -43,8 +43,7 @@ class TechnicalIndicators:
 
         self.news = filteredNews
 
-
-# !TODO Check why this is throwing an error
+    # !TODO Check why this is throwing an error
     # def InfoFilter(self):
     #     info = self.info
     #     fields_of_interest = [
@@ -226,4 +225,3 @@ class TechnicalIndicators:
 # print(stockSym.mean_value)
 # print("Historical Mean \n")
 # print(stockSym.historicalMeanVal)
-
